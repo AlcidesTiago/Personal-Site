@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Atom IDE Dark",
+    "workbench.preferredLightColorTheme": "Atom IDE Dark",
+    "workbench.preferredHighContrastColorTheme": "Atom IDE Dark",
+    "git.ignoreLimitWarning": true
+}
